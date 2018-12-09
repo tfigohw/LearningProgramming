@@ -9,13 +9,13 @@
 int main()
 {
 	/* main() function is the entry point for execution of all
-	 * * files in the project. There can be only one.
+	 * files in the project. There can be only one.
 	 */
 
 	void drawTriangle(), tellStory(), printVariables(), workingWithNumbers(), workingWithConstants();
 
-	drawTriangle(); 		 /* calling drawTriangle() function */
-	tellStory();    		 /* same */
+	drawTriangle(); 	 /* calling drawTriangle() function */
+	tellStory();    	 /* same */
 	printVariables();   	 /* same */
 	workingWithNumbers();	 /* same */
 	workingWithConstants();  /* same */

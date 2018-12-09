@@ -14,13 +14,13 @@ int main()
 	 * files in the project. There can be only one.
 	 */
 
-	drawTriangle(); 	 	 /* calling drawTriangle() function */
-	tellStory();    		 /* same */
-	printVariables();   	 /* same */
-	workingWithNumbers();	 /* same */
-	workingWithConstants();  /* same */
-	gettingUserInput();		 /* same */
-	basicCalculator();       /* same */
+	drawTriangle(); 	 	/* calling drawTriangle() function */
+	tellStory();    		/* same */
+	printVariables();   	 	/* same */
+	workingWithNumbers();	 	/* same */
+	workingWithConstants();  	/* same */
+	gettingUserInput();		/* same */
+	basicCalculator();       	/* same */
 
 	return 0;
 }

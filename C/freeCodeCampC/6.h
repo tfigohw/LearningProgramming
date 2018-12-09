@@ -7,7 +7,7 @@ void basicCalculator()
 	double num1;
 	double num2;
 
-	printf("Enter first number: ");
+	printf("\nEnter first number: ");
 	scanf("%lf", &num1);
 	printf("Enter second number: ");
 	scanf("%lf", &num2);
